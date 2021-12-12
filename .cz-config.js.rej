@@ -1,0 +1,24 @@
+diff a/.cz-config.js b/.cz-config.js	(rejected hunks)
+@@ -42,11 +42,11 @@ module.exports = {
+-      name: '模块1'
+-    },
+-    {
+-      name: '模块2'
+-    },
+-    {
+-      name: '模块3'
+-    },
+-    {
+-      name: '模块4'
+-    }
++    name: '模块1'
++  },
++  {
++    name: '模块2'
++  },
++  {
++    name: '模块3'
++  },
++  {
++    name: '模块4'
++  }
